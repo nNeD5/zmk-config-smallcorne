@@ -21,5 +21,5 @@
 include:
   - board: nrfmicro_13
     shield: corne_left
-  - board: adafruit_feather_nrf52840
+  - board: nice_nano
     shield: corne_right
